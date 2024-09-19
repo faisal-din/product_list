@@ -12,6 +12,3 @@ This project is a simple web application that displays a list of products. Users
 - **HTML5**: For the structure of the webpage.
 - **CSS3**: For styling the webpage.
 - **JavaScript**: For adding interactivity to the webpage.
-
-
-
